@@ -1,0 +1,12 @@
+{
+	{
+	  "name": "Cat",
+	  "mainInfo": "Domestic species of small carnivorous mammal",
+      "shortInfo": "Domestic cats are valued by humans for companionship and their ability to hunt rodents. About 60 cat breeds are recognized by various cat registries"
+	},
+	{
+        "name": "Dog",
+        "mainInfo": "Domesticated carnivore of the family Canidae",
+        "shortInfo": "Dogs vary widely in shape, size, and colors. They perform many roles for humans, such as hunting, herding, pulling loads, protection, assisting police and military, companionship, and, more recently, aiding disabled people, and therapeutic roles"
+	}
+}

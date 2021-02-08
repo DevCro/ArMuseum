@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{64DC7675-9016-AF91-DDAF-1292688A48CC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Commons/ButtonController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ArScene/QrShowAnimal.cs" Line="63" Column="47" />
+      <File FileName="Assets/ArManager.cs" Line="50" Column="41" />
+      <File FileName="Assets/Scripts/QuizScene/QuizManager.cs" Line="102" Column="132" />
+      <File FileName="Assets/quizController.cs" />
+      <File FileName="Assets/Scripts/Commons/LocManager.cs" />
+      <File FileName="Assets/Scripts/Commons/SafeAreaFitter.cs" />
+      <File FileName="Assets/Scripts/Commons/Localize.cs" />
+      <File FileName="Assets/Scripts/Commons/PanelController.cs" />
+      <File FileName="Assets/Scripts/Commons/ButtonController.cs" Line="30" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zadatak - Delta" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ArScene" expanded="True" />
+                <Node name="Commons" expanded="True">
+                  <Node name="ButtonController.cs" selected="True" />
+                </Node>
+                <Node name="QuizScene" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ac299635-e91f-4455-97ec-eaa7fbc34609" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

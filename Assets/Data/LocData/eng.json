@@ -1,0 +1,12 @@
+{
+	"title" : "AR MUSEUM",
+	"quiz_btn" : "QUIZ",
+	"ar_btn" : "AR EXPERIENCE",
+	"close_btn" : "CLOSE",
+	"lang_txt" : "LANGUAGES",
+	"lang_1" : "ENGLISH",
+	"lang_2" : "CROATIAN",
+	"gameover_txt" : "GAME OVER",
+	"restart_txt" : "RESTART",
+	"exit_txt" : "EXIT"
+}

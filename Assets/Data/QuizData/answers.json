@@ -1,0 +1,402 @@
+{
+	{
+	  "question_id": 0,
+	  "text": "Iron",
+	  "correct": false,
+	},
+	{
+	  "question_id": 0,
+	  "text": "Copper",
+	  "correct": true,
+	},
+	{
+	  "question_id": 0,
+	  "text": "Tin",
+	  "correct": false,
+	},
+	{
+	  "question_id": 0,
+	  "text": "Silver",
+	  "correct": false,
+	},
+	{
+	  "question_id": 1,
+	  "text": "Defecate",
+	  "correct": false,
+	},
+	{
+	  "question_id": 1,
+	  "text": "Make noises",
+	  "correct": false,
+	},
+	{
+	  "question_id": 1,
+	  "text": "Hibernate",
+	  "correct": false,
+	},
+	{
+	  "question_id": 1,
+	  "text": "Vomit",
+	  "correct": true,
+	},
+	{
+	  "question_id": 2,
+	  "text": "Their eyeballs can't move",
+	  "correct": true,
+	},
+	{
+	  "question_id": 2,
+	  "text": "For good hearing",
+	  "correct": false,
+	},
+	{
+	  "question_id": 2,
+	  "text": "Due to their widely-set nostrils",
+	  "correct": false,
+	},
+	{
+	  "question_id": 2,
+	  "text": "They use feathers to feel the air",
+	  "correct": false,
+	},
+	{
+	  "question_id": 3,
+	  "text": "They have a danger sense",
+	  "correct": false,
+	},
+	{
+	  "question_id": 3,
+	  "text": "Everything is in slow motion",
+	  "correct": true,
+	},
+	{
+	  "question_id": 3,
+	  "text": "They can see movement well",
+	  "correct": false,
+	},
+	{
+	  "question_id": 3,
+	  "text": "They sense vibrations",
+	  "correct": false,
+	},
+	{
+	  "question_id": 4,
+	  "text": "Black",
+	  "correct": true,
+	},
+	{
+	  "question_id": 4,
+	  "text": "Red",
+	  "correct": false,
+	},
+	{
+	  "question_id": 4,
+	  "text": "Yellow",
+	  "correct": false,
+	},
+	{
+	  "question_id": 4,
+	  "text": "Blue",
+	  "correct": false,
+	},
+	{
+	  "question_id": 5,
+	  "text": "Water",
+	  "correct": false,
+	},
+	{
+	  "question_id": 5,
+	  "text": "Temperature",
+	  "correct": true,
+	},
+	{
+	  "question_id": 5,
+	  "text": "Humidity",
+	  "correct": false,
+	},
+	{
+	  "question_id": 5,
+	  "text": "Light",
+	  "correct": false,
+	},
+	{
+	  "question_id": 6,
+	  "text": "Emits a lism-like sound",
+	  "correct": false,
+	},
+	{
+	  "question_id": 6,
+	  "text": "Punches prey",
+	  "correct": true,
+	},
+	{
+	  "question_id": 6,
+	  "text": "Aggressive biting habits",
+	  "correct": false,
+	},
+	{
+	  "question_id": 6,
+	  "text": "Has tatto-like markings",
+	  "correct": false,
+	},
+	{
+	  "question_id": 7,
+	  "text": "Snail shells",
+	  "correct": false,
+	},
+	{
+	  "question_id": 7,
+	  "text": "Shark cartilage",
+	  "correct": false,
+	},
+	{
+	  "question_id": 7,
+	  "text": "Crab carapace",
+	  "correct": false,
+	},
+	{
+	  "question_id": 7,
+	  "text": "Spider silk",
+	  "correct": true,
+	},
+	{
+	  "question_id": 8,
+	  "text": "Bats",
+	  "correct": false,
+	},
+	{
+	  "question_id": 8,
+	  "text": "Flies",
+	  "correct": false,
+	},
+	{
+	  "question_id": 8,
+	  "text": "Pigeons",
+	  "correct": true,
+	},
+	{
+	  "question_id": 8,
+	  "text": "Eagles",
+	  "correct": false,
+	},
+	{
+	  "question_id": 9,
+	  "text": "They can dive for long periods",
+	  "correct": false,
+	},
+	{
+	  "question_id": 9,
+	  "text": "They can use tools",
+	  "correct": true,
+	},
+	{
+	  "question_id": 9,
+	  "text": "They have whiskers",
+	  "correct": false,
+	},
+	{
+	  "question_id": 9,
+	  "text": "They make funny sounds",
+	  "correct": false,
+	},
+	{
+	  "question_id": 10,
+	  "text": "Eyes",
+	  "correct": true,
+	},
+	{
+	  "question_id": 10,
+	  "text": "Antlers",
+	  "correct": false,
+	},
+	{
+	  "question_id": 10,
+	  "text": "Hooves",
+	  "correct": false,
+	},
+	{
+	  "question_id": 10,
+	  "text": "Tongue",
+	  "correct": false,
+	},
+	{
+	  "question_id": 11,
+	  "text": "Laziness",
+	  "correct": false,
+	},
+	{
+	  "question_id": 11,
+	  "text": "Bad joints",
+	  "correct": false,
+	},
+	{
+	  "question_id": 11,
+	  "text": "Defense habit",
+	  "correct": false,
+	},
+	{
+	  "question_id": 11,
+	  "text": "Slow metabolism",
+	  "correct": true,
+	},
+	{
+	  "question_id": 12,
+	  "text": "Adapt to three legs",
+	  "correct": false,
+	},
+	{
+	  "question_id": 12,
+	  "text": "Grow a new one",
+	  "correct": true,
+	},
+	{
+	  "question_id": 12,
+	  "text": "It will lose the legs anyways",
+	  "correct": false,
+	},
+	{
+	  "question_id": 12,
+	  "text": "It will go into a dormant state",
+	  "correct": false,
+	},
+	{
+	  "question_id": 13,
+	  "text": "Long snout",
+	  "correct": false,
+	},
+	{
+	  "question_id": 13,
+	  "text": "Large paws",
+	  "correct": false,
+	},
+	{
+	  "question_id": 13,
+	  "text": "Long tongue",
+	  "correct": true,
+	},
+	{
+	  "question_id": 13,
+	  "text": "Sucking",
+	  "correct": false,
+	},
+	{
+	  "question_id": 14,
+	  "text": "They move separately",
+	  "correct": true,
+	},
+	{
+	  "question_id": 14,
+	  "text": "Full color vision",
+	  "correct": false,
+	},
+	{
+	  "question_id": 14,
+	  "text": "Bulges out of the head",
+	  "correct": false,
+	},
+	{
+	  "question_id": 14,
+	  "text": "They're armored",
+	  "correct": false,
+	},
+	{
+	  "question_id": 15,
+	  "text": "It means your food is beautiful",
+	  "correct": false,
+	},
+	{
+	  "question_id": 15,
+	  "text": "It's good luck",
+	  "correct": false,
+	},
+	{
+	  "question_id": 15,
+	  "text": "It means you're in a good place",
+	  "correct": false,
+	},
+	{
+	  "question_id": 15,
+	  "text": "It can mean your food is edible",
+	  "correct": true,
+	},
+	{
+	  "question_id": 16,
+	  "text": "It disinfects wounds",
+	  "correct": false,
+	},
+	{
+	  "question_id": 16,
+	  "text": "It stops blood from clotting",
+	  "correct": true,
+	},
+	{
+	  "question_id": 16,
+	  "text": "It gives out a scent that attracts other bats",
+	  "correct": false,
+	},
+	{
+	  "question_id": 16,
+	  "text": "It has a special color",
+	  "correct": false,
+	},
+	{
+	  "question_id": 17,
+	  "text": "They're cube-shaped",
+	  "correct": true,
+	},
+	{
+	  "question_id": 17,
+	  "text": "They really stink",
+	  "correct": false,
+	},
+	{
+	  "question_id": 17,
+	  "text": "They're also emergency food for wombats",
+	  "correct": false,
+	},
+	{
+	  "question_id": 17,
+	  "text": "They can be used for construction",
+	  "correct": false,
+	},
+	{
+	  "question_id": 18,
+	  "text": "Roaring like a small dragon",
+	  "correct": false,
+	},
+	{
+	  "question_id": 18,
+	  "text": "Leaving their tails behind",
+	  "correct": false,
+	},
+	{
+	  "question_id": 18,
+	  "text": "Squirting blood from their eyes",
+	  "correct": true,
+	},
+	{
+	  "question_id": 18,
+	  "text": "Having very loud colors",
+	  "correct": false,
+	},
+	{
+	  "question_id": 19,
+	  "text": "Sing every sunrise",
+	  "correct": false,
+	},
+	{
+	  "question_id": 19,
+	  "text": "Dance",
+	  "correct": false,
+	},
+	{
+	  "question_id": 19,
+	  "text": "Guard the eggs for months",
+	  "correct": true,
+	},
+	{
+	  "question_id": 19,
+	  "text": "Run away",
+	  "correct": false,
+	}
+}
